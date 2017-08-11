@@ -1,0 +1,16 @@
+PODS:
+  - AMGBIOperatingRecordLib (0.1.0)
+
+DEPENDENCIES:
+  - AMGBIOperatingRecordLib (from `../`)
+
+EXTERNAL SOURCES:
+  AMGBIOperatingRecordLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AMGBIOperatingRecordLib: 078764d0e822439dd4a7a1057c109d18979337d4
+
+PODFILE CHECKSUM: 750deefcab0cf42905b324ff7f50582ffbc06065
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,22 @@
+{
+  "name": "AMGBIOperatingRecordLib",
+  "version": "0.1.0",
+  "summary": "AMGBIOperatingRecordLib.",
+  "description": "BI埋点管理库 AMGBIOperatingRecordLib.",
+  "homepage": "https://github.com/FKLam/AMGBIOperatingRecordLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FKLam": "1783956729@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/FKLam/AMGBIOperatingRecordLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AMGBIOperatingRecordLib/Classes/**/*"
+}

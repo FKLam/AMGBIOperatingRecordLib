@@ -1,0 +1,1 @@
+../../../../../AMGBIOperatingRecordLib/Classes/AMGOperatingRecordParamsProtocol.h
