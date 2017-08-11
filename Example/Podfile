@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AMGBIOperatingRecordLib_Example' do
+  pod 'AMGBIOperatingRecordLib', :path => '../'
+
+  target 'AMGBIOperatingRecordLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
